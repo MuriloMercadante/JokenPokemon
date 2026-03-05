@@ -33,6 +33,7 @@ class  _JokenPokemonScreamState extends State <JokenPokemonScream> {
       body:SafeArea(
         child: Column(
           children: [
+            PokemonLogo()
 
           ],
         ),
